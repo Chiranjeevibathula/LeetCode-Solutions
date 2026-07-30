@@ -1,19 +1,39 @@
 class Solution:
-  def evalRPN(self, tokens: list[str]) -> int:
-    stack = []
-    op = {
-        '+': lambda a, b: a + b,
-        '-': lambda a, b: a - b,
-        '*': lambda a, b: a * b,
-        '/': lambda a, b: int(a / b),
-    }
-
-    for token in tokens:
-      if token in op:
-        b = stack.pop()
-        a = stack.pop()
-        stack.append(op[token](a, b))
-      else:
-        stack.append(int(token))
-
-    return stack.pop()
+    def evalRPN(self, tokens: List[str]) -> int:
+        """
+        Evaluate the value of an arithmetic expression in Reverse Polish Notation.
+      
+        Args:
+            tokens: List of strings representing numbers and operators (+, -, *, /)
+          
+        Returns:
+            Integer result of the evaluated expression
+        """
+        # Define operator mapping to corresponding functions
+        operators = {
+            "+": operator.add,
+            "-": operator.sub,
+            "*": operator.mul,
+            "/": operator.truediv,
+        }
+      
+        # Initialize stack to store operands
+        stack = []
+      
+        # Process each token in the expression
+        for token in tokens:
+            if token in operators:
+                # Pop two operands from stack (order matters for non-commutative operations)
+                second_operand = stack.pop()
+                first_operand = stack.pop()
+              
+                # Apply operator and push result back to stack
+                # Use int() to truncate towards zero for division
+                result = int(operators[token](first_operand, second_operand))
+                stack.append(result)
+            else:
+                # Token is a number, push it to stack
+                stack.append(int(token))
+      
+        # Final result is the only element left in stack
+        return stack[0]
