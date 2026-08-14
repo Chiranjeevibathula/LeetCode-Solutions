@@ -14,15 +14,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Divide and Conquer
