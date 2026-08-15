@@ -11,11 +11,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0876-middle-of-the-linked-list](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0876-middle-of-the-linked-list](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Array
 |  |
 | ------- |
