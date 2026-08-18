@@ -67,10 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [1143-longest-common-subsequence](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [1143-longest-common-subsequence](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 ## Backtracking
 |  |
 | ------- |
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
