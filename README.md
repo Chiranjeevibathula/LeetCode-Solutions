@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0072-edit-distance) |
+| [0131-palindrome-partitioning](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [1143-longest-common-subsequence](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
@@ -77,12 +78,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0072-edit-distance) |
+| [0131-palindrome-partitioning](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0416-partition-equal-subset-sum](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [1143-longest-common-subsequence](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 ## Backtracking
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 ## Bracket Sequences
 |  |
 | ------- |
