@@ -63,4 +63,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
