@@ -67,11 +67,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0072-edit-distance](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [1143-longest-common-subsequence](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0072-edit-distance](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [1143-longest-common-subsequence](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 ## Backtracking
 |  |
