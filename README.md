@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0088-merge-sorted-array](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0347-top-k-frequent-elements](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
+| [0064-minimum-path-sum](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0416-partition-equal-subset-sum](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -110,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
