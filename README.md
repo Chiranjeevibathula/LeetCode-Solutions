@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0347-top-k-frequent-elements](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0767-reorganize-string](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Linked List
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0347-top-k-frequent-elements](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0767-reorganize-string](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Divide and Conquer
 |  |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0767-reorganize-string](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -51,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0767-reorganize-string](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 ## Quickselect
 |  |
 | ------- |
@@ -75,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0179-largest-number) |
+| [0767-reorganize-string](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [1143-longest-common-subsequence](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
@@ -112,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0179-largest-number](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0179-largest-number) |
+| [0767-reorganize-string](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0767-reorganize-string) |
 ## Recursion
 |  |
 | ------- |
