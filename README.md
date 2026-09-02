@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0322-coin-change](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
+| [0322-coin-change](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [1143-longest-common-subsequence](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/1143-longest-common-subsequence) |
 ## Backtracking
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 ## 0-1 Knapsack
 |  |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0322-coin-change) |
 ## Binary Tree
 |  |
 | ------- |
@@ -171,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
