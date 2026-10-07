@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0622-design-circular-queue](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0641-design-circular-deque) |
 | [0876-middle-of-the-linked-list](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0622-design-circular-queue](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0641-design-circular-deque) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sorting
 |  |
@@ -187,8 +189,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0641-design-circular-deque) |
 ## Queue
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/Chiranjeevibathula/LeetCode-Solutions/tree/master/0641-design-circular-deque) |
 <!---LeetCode Topics End-->
